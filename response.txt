@@ -1,0 +1,15 @@
+What is the code quality at Google like?
+
+The article talk about the quality of code inside google as an example how conventinally to write a code to utilize the computer system resoureces, by considering below crateria.
+Employ techniques that reduce defects.
+Quickly implement effective design alternatives.
+Collaborate more smoothly with other team members.
+See how testability directly reflects software quality.
+Establish standards and practices for building software.
+Avoid upfront overdesign and build just-in-time.
+Support an iterative process without excessive rework.
+Support collaborative code ownership and embrace a common aesthetic.
+
+
+The second article shows more about the good practice for developing a code according to google standards, like using lambda expression like Consumer and Predicate to avoid many boiler plate code.
+For instance the article talk about using exceptable orientation is about 4 space from the margin.
